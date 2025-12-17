@@ -1,2 +1,7 @@
-streamlit
+# Ignore Streamlit secrets
+.streamlit/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]streamlit
 groq
